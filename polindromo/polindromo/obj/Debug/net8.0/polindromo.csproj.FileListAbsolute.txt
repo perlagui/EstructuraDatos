@@ -1,0 +1,14 @@
+C:\Users\ellio\OneDrive\Documentos\Practicas\Estructura\polindromo\polindromo\bin\Debug\net8.0\polindromo.exe
+C:\Users\ellio\OneDrive\Documentos\Practicas\Estructura\polindromo\polindromo\bin\Debug\net8.0\polindromo.deps.json
+C:\Users\ellio\OneDrive\Documentos\Practicas\Estructura\polindromo\polindromo\bin\Debug\net8.0\polindromo.runtimeconfig.json
+C:\Users\ellio\OneDrive\Documentos\Practicas\Estructura\polindromo\polindromo\bin\Debug\net8.0\polindromo.dll
+C:\Users\ellio\OneDrive\Documentos\Practicas\Estructura\polindromo\polindromo\bin\Debug\net8.0\polindromo.pdb
+C:\Users\ellio\OneDrive\Documentos\Practicas\Estructura\polindromo\polindromo\obj\Debug\net8.0\polindromo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\OneDrive\Documentos\Practicas\Estructura\polindromo\polindromo\obj\Debug\net8.0\polindromo.AssemblyInfoInputs.cache
+C:\Users\ellio\OneDrive\Documentos\Practicas\Estructura\polindromo\polindromo\obj\Debug\net8.0\polindromo.AssemblyInfo.cs
+C:\Users\ellio\OneDrive\Documentos\Practicas\Estructura\polindromo\polindromo\obj\Debug\net8.0\polindromo.csproj.CoreCompileInputs.cache
+C:\Users\ellio\OneDrive\Documentos\Practicas\Estructura\polindromo\polindromo\obj\Debug\net8.0\polindromo.dll
+C:\Users\ellio\OneDrive\Documentos\Practicas\Estructura\polindromo\polindromo\obj\Debug\net8.0\refint\polindromo.dll
+C:\Users\ellio\OneDrive\Documentos\Practicas\Estructura\polindromo\polindromo\obj\Debug\net8.0\polindromo.pdb
+C:\Users\ellio\OneDrive\Documentos\Practicas\Estructura\polindromo\polindromo\obj\Debug\net8.0\polindromo.genruntimeconfig.cache
+C:\Users\ellio\OneDrive\Documentos\Practicas\Estructura\polindromo\polindromo\obj\Debug\net8.0\ref\polindromo.dll

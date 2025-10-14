@@ -1,0 +1,14 @@
+C:\Users\ellio\OneDrive\Documentos\Practicas\Estructura\expresionmatematica\expresionmatematica\bin\Debug\net8.0\expresionmatematica.exe
+C:\Users\ellio\OneDrive\Documentos\Practicas\Estructura\expresionmatematica\expresionmatematica\bin\Debug\net8.0\expresionmatematica.deps.json
+C:\Users\ellio\OneDrive\Documentos\Practicas\Estructura\expresionmatematica\expresionmatematica\bin\Debug\net8.0\expresionmatematica.runtimeconfig.json
+C:\Users\ellio\OneDrive\Documentos\Practicas\Estructura\expresionmatematica\expresionmatematica\bin\Debug\net8.0\expresionmatematica.dll
+C:\Users\ellio\OneDrive\Documentos\Practicas\Estructura\expresionmatematica\expresionmatematica\bin\Debug\net8.0\expresionmatematica.pdb
+C:\Users\ellio\OneDrive\Documentos\Practicas\Estructura\expresionmatematica\expresionmatematica\obj\Debug\net8.0\expresionmatematica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\OneDrive\Documentos\Practicas\Estructura\expresionmatematica\expresionmatematica\obj\Debug\net8.0\expresionmatematica.AssemblyInfoInputs.cache
+C:\Users\ellio\OneDrive\Documentos\Practicas\Estructura\expresionmatematica\expresionmatematica\obj\Debug\net8.0\expresionmatematica.AssemblyInfo.cs
+C:\Users\ellio\OneDrive\Documentos\Practicas\Estructura\expresionmatematica\expresionmatematica\obj\Debug\net8.0\expresionmatematica.csproj.CoreCompileInputs.cache
+C:\Users\ellio\OneDrive\Documentos\Practicas\Estructura\expresionmatematica\expresionmatematica\obj\Debug\net8.0\expresionmatematica.dll
+C:\Users\ellio\OneDrive\Documentos\Practicas\Estructura\expresionmatematica\expresionmatematica\obj\Debug\net8.0\refint\expresionmatematica.dll
+C:\Users\ellio\OneDrive\Documentos\Practicas\Estructura\expresionmatematica\expresionmatematica\obj\Debug\net8.0\expresionmatematica.pdb
+C:\Users\ellio\OneDrive\Documentos\Practicas\Estructura\expresionmatematica\expresionmatematica\obj\Debug\net8.0\expresionmatematica.genruntimeconfig.cache
+C:\Users\ellio\OneDrive\Documentos\Practicas\Estructura\expresionmatematica\expresionmatematica\obj\Debug\net8.0\ref\expresionmatematica.dll
