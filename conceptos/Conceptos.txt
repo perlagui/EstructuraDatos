@@ -1,0 +1,4 @@
+#Esctructura de Datos  
+
+Es una forma de organizar, almacenar y manipular datos en un sistema
+informático para que sean accesibles y procesables de manera eficiente.
